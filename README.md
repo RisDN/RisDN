@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ris</h1>
-<h3 align="center">Software development student</h3>
-
+<p>Software development student</p>
+<p>Server Developer @ <a href="https://fyremc.hu">FyreMC</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=risdn&label=Views&color=cb32cd&style=flat" alt="risdn" /> </p>
 
 <h3 align="left">Connect with me:</h3>
