@@ -3,6 +3,7 @@
 <p>
 Founder, Developer @ <a href="https://okereso.hu">oKereso</a> <br>
 Server Developer @ <a href="https://fyremc.hu">FyreMC</a> 
+Developer @ <a href="https://fusionv.hu">FusionV 2023</a> 
 </p>
 
 <h3 align="left">Contact</h3>
