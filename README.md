@@ -2,7 +2,7 @@
 <p align="center">Student</p>
 <p>
 Founder, Developer @ <a href="https://okereso.hu">oKereso</a> <br>
-Server Developer @ <a href="https://fyremc.hu">FyreMC</a> 
+Server Developer @ <a href="https://fyremc.hu">FyreMC</a>  <br>
 Developer @ <a href="https://fusionv.hu">FusionV 2023</a> 
 </p>
 
