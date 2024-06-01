@@ -1,3 +1,5 @@
+### <code>Ris</code>, freelancer software <span>engineer student
+
 <img src="https://komarev.com/ghpvc/?username=risdn&label=Views&color=cb32cd&style=flat" alt="risdn" />
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
