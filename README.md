@@ -1,4 +1,4 @@
-### <code>Ris</code>, freelancer software <span>engineer student
+### <code>Ris</code>, freelancer software engineer student
 
 <img src="https://komarev.com/ghpvc/?username=risdn&label=Views&color=cb32cd&style=flat" alt="risdn" />
 
