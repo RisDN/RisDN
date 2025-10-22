@@ -1,4 +1,4 @@
-### <code>Ris</code>, freelancer software engineer student
+### dropped out of uni to go full-time java engineer
 
 <img src="https://komarev.com/ghpvc/?username=risdn&label=Views&color=cb32cd&style=flat" alt="risdn" />
 
